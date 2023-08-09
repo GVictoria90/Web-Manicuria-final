@@ -28,24 +28,6 @@ const Inicio = () => {
                 uñas y el medio ambiente, para que puedas lucir unas manos
                 saludables y hermosas.
               </Paragraph>
-              <Paragraph>
-                Desde un look clásico y elegante hasta diseños vanguardistas y
-                originales, estoy aquí para hacer realidad tus ideas y transformar
-                tus uñas en verdaderas obras de arte. Ya sea para una ocasión
-                especial, un mimo personal o simplemente porque te lo mereces.
-              </Paragraph>
-              <Paragraph>
-                Te ofrezco un ambiente acogedor y relajante donde podrás escapar
-                del ajetreo diario y dedicar tiempo para ti misma. Esforzandome
-                siempre por brindar un servicio excepcional, superar tus
-                expectativas y dejarte con una sonrisa en el rostro cada vez que
-                me visites.
-              </Paragraph>
-              <Paragraph>
-                Estoy ansiosa por recibirte en VG Nails Art Studio mi lugar, tu
-                lugar y ser parte de tu rutina de cuidado personal. ¡Reserva tu
-                cita y comenza a lucir unas uñas deslumbrantes!
-              </Paragraph>
             </ReadMore>
           </div>
 
